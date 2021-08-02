@@ -1,2 +1,2 @@
 # Digital-Clock
-You still a digital clock.. XD
+You still need a digital clock though.. XD
